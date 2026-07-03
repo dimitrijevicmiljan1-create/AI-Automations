@@ -1,66 +1,170 @@
-# 🤖 AI Automation Portfolio
+# 🤖 AI Automations Portfolio
 
-A collection of AI-powered business automation projects built with OpenAI, n8n, and modern business tools.
+A collection of AI-powered business automation workflows built with **OpenAI**, **n8n**, and modern business tools.
 
-This repository showcases workflow automation solutions focused on sales, CRM, meeting productivity, and business process optimization.
+These automations eliminate repetitive tasks, improve business operations, and integrate AI directly into existing workflows using CRM systems, productivity tools, and email platforms.
 
 ---
 
-## Featured Projects
+# 🚀 AI Sales Discovery Assistant
 
-### 🤖 AI Sales Discovery Assistant
+![AI Sales Discovery Assistant](assets/sales-discovery.png)
 
-AI-powered lead qualification with automatic CRM creation and sales notifications.
+### Overview
 
-**Tech**
+Automatically qualifies incoming sales leads using AI, creates CRM records, logs business data, and notifies the sales team without manual intervention.
+
+### Features
+
+- AI Lead Qualification
+- Lead Validation
+- HubSpot Contact Creation
+- HubSpot Company Creation
+- HubSpot Deal Creation
+- Notion CRM Integration
+- Gmail Sales Notification
+- Error Handling & Logging
+
+### Tech Stack
+
 - OpenAI
 - n8n
 - HubSpot
 - Notion
 - Gmail
+- Webhooks
 
-Status: ✅ Completed
+🎥 **Demo Video**
+
+https://YOUR_LOOM_LINK_1
 
 ---
 
-### 📝 AI Meeting Intelligence Assistant
+# 📝 AI Meeting Intelligence & Action Item Generator
 
-Automatically converts meeting transcripts into structured summaries, action items, and follow-up emails.
+![AI Meeting Intelligence](assets/meeting-intelligence.png)
 
-**Tech**
+### Overview
+
+Transforms meeting transcripts into structured summaries, extracts action items, documents outcomes, and automatically shares results with the team.
+
+### Features
+
+- AI Meeting Analysis
+- Meeting Summary Generation
+- Action Item Extraction
+- Notion Documentation
+- Gmail Meeting Summary
+- Automatic Error Logging
+
+### Tech Stack
+
 - OpenAI
 - n8n
 - Notion
 - Gmail
+- Webhooks
 
-Status: ✅ Completed
+🎥 **Demo Video**
+
+https://YOUR_LOOM_LINK_2
 
 ---
 
-### 📈 AI Lead Qualification System
+# 📈 AI Lead Qualification System
 
-Automatically analyzes incoming leads, scores their quality, stores them in a CRM, and notifies the sales team.
+![AI Lead Qualification](assets/lead-qualification.png)
 
-**Tech**
+### Overview
+
+Evaluates incoming leads with AI, assigns qualification, stores them inside a CRM spreadsheet, and automatically notifies the sales team.
+
+### Features
+
+- AI Lead Analysis
+- Lead Qualification
+- Google Sheets CRM
+- Automated Sales Notifications
+- Email Subject Prioritization
+- Webhook Integration
+
+### Tech Stack
+
 - OpenAI
 - n8n
 - Google Sheets
 - Gmail
+- Webhooks
 
-Status: ✅ Completed
+🎥 **Demo Video**
+
+https://YOUR_LOOM_LINK_3
 
 ---
 
-## Tech Stack
+# 🎫 AI Support Ticket Classifier
+
+![AI Support Ticket Classifier](assets/support-ticket-classifier.png)
+
+### Overview
+
+Automatically classifies customer support tickets using AI, stores requests, notifies the support team, and sends an automated customer response.
+
+### Features
+
+- AI Ticket Classification
+- Priority Detection
+- Google Sheets Ticket Database
+- Support Team Notification
+- Automated Customer Reply
+- Failure Logging
+
+### Tech Stack
 
 - OpenAI
 - n8n
-- HubSpot
-- Notion
 - Google Sheets
 - Gmail
+- Webhooks
+
+🎥 **Demo Video**
+
+https://YOUR_LOOM_LINK_4
+
+---
+
+# 🛠 Technology Stack
+
+### AI
+
+- OpenAI GPT
+- Prompt Engineering
+
+### Automation
+
+- n8n
+- Webhooks
 - REST APIs
 
+### Business Integrations
+
+- HubSpot
+- Notion
+- Google Sheets
+- Gmail
+
+### Workflow Design
+
+- Business Process Automation
+- CRM Automation
+- Sales Automation
+- Meeting Intelligence
+- Customer Support Automation
+
 ---
 
-More automation projects will be added over time.
+# 📌 About
+
+These projects demonstrate practical AI automation solutions designed to solve real business problems by combining Large Language Models with modern business tools and workflow automation platforms.
+
+More AI-powered automation projects are currently in development.
