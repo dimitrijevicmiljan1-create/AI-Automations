@@ -36,7 +36,7 @@ Automatically qualifies incoming sales leads using AI, creates CRM records, logs
 
 🎥 **Demo Video**
 
-[https://YOUR_LOOM_LINK_1](https://www.loom.com/share/ee3bd8ea3f20499c9638b9d1a11ed163)
+(https://www.loom.com/share/ee3bd8ea3f20499c9638b9d1a11ed163)
 
 ---
 
@@ -67,7 +67,7 @@ Transforms meeting transcripts into structured summaries, extracts action items,
 
 🎥 **Demo Video**
 
-https://YOUR_LOOM_LINK_2
+(https://www.loom.com/share/7102595bacea4ff8acf0f1036ae76427)
 
 ---
 
@@ -98,7 +98,7 @@ Evaluates incoming leads with AI, assigns qualification, stores them inside a CR
 
 🎥 **Demo Video**
 
-https://YOUR_LOOM_LINK_3
+(https://www.loom.com/share/20faae388bd8470bb309ca3dd41206cb)
 
 ---
 
@@ -129,7 +129,7 @@ Automatically classifies customer support tickets using AI, stores requests, not
 
 🎥 **Demo Video**
 
-https://YOUR_LOOM_LINK_4
+(https://www.loom.com/share/27a9bea9815347209ccecd898150450b)
 
 ---
 
