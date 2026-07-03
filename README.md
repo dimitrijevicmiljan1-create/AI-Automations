@@ -36,7 +36,7 @@ Automatically qualifies incoming sales leads using AI, creates CRM records, logs
 
 🎥 **Demo Video**
 
-https://YOUR_LOOM_LINK_1
+[https://YOUR_LOOM_LINK_1](https://www.loom.com/share/ee3bd8ea3f20499c9638b9d1a11ed163)
 
 ---
 
